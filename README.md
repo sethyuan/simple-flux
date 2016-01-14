@@ -12,7 +12,7 @@ npm install --save simple-flux
 
 ```js
 // mystore.js
-import {Store, addStore} from "aflux";
+import {Store, addStore} from "simple-flux";
 
 const myStore = new Store();
 
